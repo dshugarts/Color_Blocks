@@ -1,0 +1,50 @@
+.redButton{
+  float: left;
+}
+
+.blueButton{
+  float: left;
+}
+
+.greenButton{
+  float: left;
+}
+
+.yellowButton{
+  float: left;
+}
+
+
+
+.redDiv {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border-style: none;
+  float: left;
+}
+.blueDiv {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border-style: none;
+  float: left;
+}
+.greenDiv {
+  background-color: green;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border-style: none;
+  float: left;
+}
+.yellowDiv {
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border-style: none;
+  float: left;
+}
